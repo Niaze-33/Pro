@@ -104,7 +104,6 @@ case 6:
 
 "_Please write a brief message if you think I need to make any changes._
 
-Email: [mdimam.cse9.bu@gmail.com](mailto:mdimam.cse9.bu@gmail.com)
 
 ## Thank you."
 
